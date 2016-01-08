@@ -28,8 +28,8 @@ describe Bow do
     end
 
     it 'using a bow with 0 arrows throws an error' do
-
-      expect{ bow.use }.to change{ bow.arrows }.by(-1)
+      empty_bow = Bow.new(0)
+      expect{ empty_bow.use }.to raise_error(RuntimeError)
     end
   end
 end
