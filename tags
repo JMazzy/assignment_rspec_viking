@@ -1,0 +1,34 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Axe	/Users/kitlangton/Viking/Unit4/assignment_rspec_viking/lib/weapons/axe.rb	/^class Axe < Weapon$/;"	c
+Bow	/Users/kitlangton/Viking/Unit4/assignment_rspec_viking/lib/weapons/bow.rb	/^class Bow < Weapon$/;"	c
+Fists	/Users/kitlangton/Viking/Unit4/assignment_rspec_viking/lib/weapons/fists.rb	/^class Fists < Weapon$/;"	c
+Viking	/Users/kitlangton/Viking/Unit4/assignment_rspec_viking/lib/viking.rb	/^class Viking$/;"	c
+Warmup	/Users/kitlangton/Viking/Unit4/assignment_rspec_viking/lib/warmup.rb	/^class Warmup$/;"	c
+Weapon	/Users/kitlangton/Viking/Unit4/assignment_rspec_viking/lib/weapons/weapon.rb	/^class Weapon$/;"	c
+attack	/Users/kitlangton/Viking/Unit4/assignment_rspec_viking/lib/viking.rb	/^  def attack(target)$/;"	f	class:Viking
+calls_some_methods	/Users/kitlangton/Viking/Unit4/assignment_rspec_viking/lib/warmup.rb	/^  def calls_some_methods(string)$/;"	f	class:Warmup
+check_death	/Users/kitlangton/Viking/Unit4/assignment_rspec_viking/lib/viking.rb	/^  def check_death$/;"	f	class:Viking
+damage_dealt	/Users/kitlangton/Viking/Unit4/assignment_rspec_viking/lib/viking.rb	/^  def damage_dealt$/;"	f	class:Viking
+damage_with_fists	/Users/kitlangton/Viking/Unit4/assignment_rspec_viking/lib/viking.rb	/^  def damage_with_fists$/;"	f	class:Viking
+damage_with_weapon	/Users/kitlangton/Viking/Unit4/assignment_rspec_viking/lib/viking.rb	/^  def damage_with_weapon$/;"	f	class:Viking
+drop_weapon	/Users/kitlangton/Viking/Unit4/assignment_rspec_viking/lib/viking.rb	/^  def drop_weapon$/;"	f	class:Viking
+gets_shout	/Users/kitlangton/Viking/Unit4/assignment_rspec_viking/lib/warmup.rb	/^  def gets_shout$/;"	f	class:Warmup
+initialize	/Users/kitlangton/Viking/Unit4/assignment_rspec_viking/lib/viking.rb	/^  def initialize(name="RandomViking", health = 100, strength = 10, weapon = nil)$/;"	f	class:Viking
+initialize	/Users/kitlangton/Viking/Unit4/assignment_rspec_viking/lib/weapons/axe.rb	/^  def initialize$/;"	f	class:Axe
+initialize	/Users/kitlangton/Viking/Unit4/assignment_rspec_viking/lib/weapons/bow.rb	/^  def initialize(arrows = 10)$/;"	f	class:Bow
+initialize	/Users/kitlangton/Viking/Unit4/assignment_rspec_viking/lib/weapons/fists.rb	/^  def initialize$/;"	f	class:Fists
+initialize	/Users/kitlangton/Viking/Unit4/assignment_rspec_viking/lib/weapons/weapon.rb	/^  def initialize(name, multiplier = 1)$/;"	f	class:Weapon
+out_of_arrows?	/Users/kitlangton/Viking/Unit4/assignment_rspec_viking/lib/weapons/bow.rb	/^  def out_of_arrows?$/;"	f	class:Bow
+pick_up_weapon	/Users/kitlangton/Viking/Unit4/assignment_rspec_viking/lib/viking.rb	/^  def pick_up_weapon(weapon)$/;"	f	class:Viking
+receive_attack	/Users/kitlangton/Viking/Unit4/assignment_rspec_viking/lib/viking.rb	/^  def receive_attack(damage_dealt)$/;"	f	class:Viking
+take_damage	/Users/kitlangton/Viking/Unit4/assignment_rspec_viking/lib/viking.rb	/^  def take_damage(damage)$/;"	f	class:Viking
+triple_size	/Users/kitlangton/Viking/Unit4/assignment_rspec_viking/lib/warmup.rb	/^  def triple_size(array)$/;"	f	class:Warmup
+use	/Users/kitlangton/Viking/Unit4/assignment_rspec_viking/lib/weapons/axe.rb	/^  def use$/;"	f	class:Axe
+use	/Users/kitlangton/Viking/Unit4/assignment_rspec_viking/lib/weapons/bow.rb	/^  def use$/;"	f	class:Bow
+use	/Users/kitlangton/Viking/Unit4/assignment_rspec_viking/lib/weapons/fists.rb	/^  def use$/;"	f	class:Fists
+use	/Users/kitlangton/Viking/Unit4/assignment_rspec_viking/lib/weapons/weapon.rb	/^  def use$/;"	f	class:Weapon
