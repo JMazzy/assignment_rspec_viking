@@ -114,4 +114,11 @@ describe Viking do
       viking_with_bow.attack(viking)
     end
   end
+
+  describe "vikings can never die" do
+    it 'NEVER DIES' do 
+      massively_powerful_viking = Viking.new("Mazzy", 10000, 10000000)
+      expect{ massively_powerful_viking.attack(viking) }.to raise_error RuntimeError
+    end
+  end
 end
